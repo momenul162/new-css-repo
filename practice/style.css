@@ -1,0 +1,24 @@
+.elements {
+    display: flex;
+}
+
+ol {
+    background-color: aquamarine;
+    margin: 25px;
+}
+
+table,
+td,
+th {
+    padding: 5px 15px;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+aside {
+    width: 25%;
+    float: right;
+    background-color: rgb(235, 225, 213);
+    margin-left: 10px;
+    padding-left: 10px;
+}
